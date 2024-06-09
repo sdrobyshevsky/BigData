@@ -154,5 +154,4 @@ variance_price = data['price'].var()
 print("Average price:", average_price)
 print("Price variance:", variance_price)
 
-
 # Выполнив оба вида подсчетов для данных из датасета airbnb, можно сравнить результаты и убедиться в правильности выполнения задания.
