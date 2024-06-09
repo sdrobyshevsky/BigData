@@ -1,0 +1,4 @@
+H:\Downloads\GB\GB С#\Task20\obj\Debug\net8.0\Task20.GeneratedMSBuildEditorConfig.editorconfig
+H:\Downloads\GB\GB С#\Task20\obj\Debug\net8.0\Task20.AssemblyInfoInputs.cache
+H:\Downloads\GB\GB С#\Task20\obj\Debug\net8.0\Task20.AssemblyInfo.cs
+H:\Downloads\GB\GB С#\Task20\obj\Debug\net8.0\Task20.csproj.CoreCompileInputs.cache
